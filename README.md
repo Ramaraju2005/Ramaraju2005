@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm  Ramaraju  <br><br>- 📚 I'm currently learning  software tools and Exploring the Artificial Intelligence</p>
+<p data-importer="text" align="left">- 📚 I'm currently learning  software tools and Exploring the Artificial Intelligence</p>
 
 ###
 
@@ -62,7 +62,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Ramaraju2005&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&order=3" height="" alt="streak graph"  />
- <img src="https://raw.githubusercontent.com/Ramaraju2005/Ramaraju2005/activity-graph-output/activity-graph.svg?bg_color=blue&area=true&hide_border=true&hide_title=false&custom_title=Contribution%20Graph&theme=dracula" height="150" alt="activity-graph graph"  />
+ 
 </div>
 
 ###
